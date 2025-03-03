@@ -39,7 +39,7 @@ For Admin ---
 First you need clone this project.
 
 ```bash
-git clone https://github.com/se-ashishgupta/Subscription-Based-Video-Platform
+git clone https://github.com/se-surabhianand/Subscription-Based-Video-Platform/
 ```
 
 Now You have to add .env file in client root folder and config.env in config folder of server.
